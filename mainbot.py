@@ -481,4 +481,4 @@ async def set(ctx):
 
 
 
-bot.run("OTA5OTczODM5MjY0NDkzNTc4.YZMFLQ.bazMYlrmVzucr5Op1w3G8rBbpz0") # Replace Token 
+bot.run("  ") # Replace Token 
